@@ -1,4 +1,4 @@
-# Exercice 14-1 : Valeurs par défaut dans MySQL 8.0
+# Exercice 14-2 : Valeurs par défaut dans MySQL 8.0
 
 ## Objectif
 
